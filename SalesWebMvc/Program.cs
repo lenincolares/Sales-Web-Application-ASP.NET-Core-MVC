@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using SalesWebMvc.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;

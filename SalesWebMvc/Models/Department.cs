@@ -1,4 +1,4 @@
-﻿
+﻿using SalesWebMvc.Models;
 
 namespace SalesWebMvc.Models
 {
